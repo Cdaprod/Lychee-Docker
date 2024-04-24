@@ -1,4 +1,4 @@
-FROM debian:bookworm-slim
+FROM debian:12.5-slim
 
 # Set version label
 LABEL maintainer="lycheeorg"
